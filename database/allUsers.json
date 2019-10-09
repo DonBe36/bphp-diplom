@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "Шалимов",
+    "email": "mail@mail.ru",
+    "password": "12345",
+    "status": "Менеджер"
+  },
+  {
+    "id": 2,
+    "name": "Иванов",
+    "email": "test@mail.ru",
+    "password": "qwerty",
+    "status": "Переводчик"
+  }
+]
